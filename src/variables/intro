@@ -1,0 +1,19 @@
+Variables are a reusable container for a value, a variable behaves as if it was the value it contains
+
+There are two types of variable
+1. Primitive  -> Simple value stored directly in memory (stack)
+2. Reference -> Memory address (stack) that points to the (heap)
+
+
+Primitive    |    Reference
+---------    |    ---------
+int               string
+double            array
+char              object
+boolean
+long
+
+2 Steps to create a variable :
+a) Declaration
+b) Assignment
+
